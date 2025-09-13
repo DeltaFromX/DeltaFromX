@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="246" src="https:////i.imgflip.com/a5za6a.gif"  />
+<img align="right" height="246" src="http://31.128.36.207:8080/doc_2025-09-13_15-11-45.gif" />
 
 ###
 
