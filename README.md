@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="246" src="https:////i.imgflip.com/a5za6a.gif"  />
 
 ###
@@ -48,10 +50,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeltaFromX/DeltaFromX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeltaFromX/DeltaFromX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DeltaFromX/DeltaFromX/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/DeltaFromX/DeltaFromX/output/snake.svg" alt="Snake animation" />
 
 ###
